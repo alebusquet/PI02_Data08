@@ -112,4 +112,3 @@ Muchas gracias!
 
 Autor: Alejandro Busquet<br>
 Correo: algabu00@gmail.com
-![image](https://user-images.githubusercontent.com/110254796/228432522-90d09c68-c57b-4a09-ae05-0af40db6582c.png)
